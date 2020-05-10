@@ -229,10 +229,10 @@ postCalendar: true
 gitalk:
   enable: true
   owner: ssh199956
-  repo: blog-sshlearning
+  repo: blogtalk
   oauth:
-    clientId:   # gitalk配置，需要填写
-    clientSecret:   # gitalk配置，需要填写
+    clientId:f17bce2e10c414b30856  # gitalk配置，需要填写
+    clientSecret:67eebfd486e95d643d3ca50a1472be8339e69548   # gitalk配置，需要填写
   admin: ssh199956
 
 # the Gitment config，default disabled
@@ -275,7 +275,7 @@ valine:
 # 配置是否在 header 中显示 fork me on github 的图标，默认为true，你可以修改为你的仓库地址.
 githubLink:
   enable: true
-  url: https://github.com/godweiyang/hexo-matery-modified
+  url: https://github.com/ssh199956/blog-sshlearning
   title: Fork Me
 
 # The password verification feature of read post. To use this feature,

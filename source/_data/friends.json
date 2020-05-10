@@ -1,0 +1,15 @@
+[
+    {
+        "name": "ssh",
+        "url": "https://blog.sshlearning.com",
+        "title": "访问主页",
+        "introduction": "公众号【IT编程学习栈】，分享JAVA学习与大数据算法",
+        "avatar": "https://blog.sshlearning.com/medias/avatars/avatar.jpg"
+    },{
+        "name": "知乎",
+        "url": "https://www.zhihu.com/people/sshlearning",
+        "title": "访问主页",
+        "introduction": "一个有温度的深度学习小屋",
+        "avatar": "/medias/avatars/myzhihu.png"
+    }
+]

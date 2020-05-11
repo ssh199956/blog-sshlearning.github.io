@@ -166,7 +166,7 @@ text:
 profile:
   avatar: /medias/avatars/avatar.jpg
   career: 22岁 | 电子商务 | 大数据开发
-  introduction: 我目前是一名在校大学生。学习方向是JAVA与大数据开发。欢迎关注我的微信公众号「IT编程学习栈」，干货每天不错过！
+  introduction: 一名在校大学生。方向是JAVA与大数据开发。欢迎关注我的微信公众号「IT编程学习栈」，干货每天不错过！
 
 # config my projects informations in about page.
 # If you don't want to display this `My Projects` content, you can deactivate or delete this configuration.
@@ -231,8 +231,8 @@ gitalk:
   owner: ssh199956
   repo: blogtalk
   oauth:
-    clientId:f17bce2e10c414b30856  # gitalk配置，需要填写
-    clientSecret:67eebfd486e95d643d3ca50a1472be8339e69548   # gitalk配置，需要填写
+    clientId:       #f17bce2e10c414b30856  # gitalk配置，需要填写
+    clientSecret:      #67eebfd486e95d643d3ca50a1472be8339e69548   # gitalk配置，需要填写
   admin: ssh199956
 
 # the Gitment config，default disabled

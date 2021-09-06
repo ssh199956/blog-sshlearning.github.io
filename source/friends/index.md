@@ -14,6 +14,6 @@ layout: "friends"
 
 例如我的博客友链，大家可以加到自己博客里哦：
 * **名称：**sshlearning
-* **地址：**https://blog.sshlearning.com
+* **地址：**https://blog.sshlearning.cn
 * **简介：**公众号【IT编程学习栈】，分享深度学习与NLP算法
-* **头像：**https://blog.sshlearning.com/medias/avatars/avatar.jpg
+* **头像：**https://blog.sshlearning.cn/medias/avatars/avatar.jpg

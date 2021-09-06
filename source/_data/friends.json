@@ -1,10 +1,10 @@
 [
     {
         "name": "ssh",
-        "url": "https://blog.sshlearning.com",
+        "url": "https://blog.sshlearning.cn",
         "title": "访问主页",
         "introduction": "公众号【IT编程学习栈】，分享JAVA学习与大数据算法",
-        "avatar": "https://blog.sshlearning.com/medias/avatars/avatar.jpg"
+        "avatar": "https://blog.sshlearning.cn/medias/avatars/avatar.jpg"
     },{
         "name": "知乎",
         "url": "https://www.zhihu.com/people/sshlearning",
